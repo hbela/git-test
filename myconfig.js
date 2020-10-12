@@ -1,1 +1,1 @@
-DATABASE = mongodb;
+DATABASE = "https://mongodb";
